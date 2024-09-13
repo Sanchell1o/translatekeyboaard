@@ -17,7 +17,7 @@
 1. Убедитесь, что у вас установлен **Python 3.x**.
 2. Скачайте или клонируйте репозиторий с программой:
    ```bash
-   git clone https://github.com/Sanchell1o/translatekeyboaard
+   git clone https://github.com/Sanchell1o/translatekeyboaard.git
    ```
 3. Для запуска программы выполните одну из команд в зависимости от версии, которую хотите использовать.
 
